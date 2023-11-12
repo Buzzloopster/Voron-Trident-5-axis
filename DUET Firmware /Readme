@@ -1,1 +1,2 @@
-
+This is Firmware for Duet 6HC board with settings based on my build. 
+For a new build the values of bed center needs to be recalibrated and adjusted to the absolute zero of printer
