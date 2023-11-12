@@ -1,3 +1,12 @@
 ALL PARTS ARE DESIGNED TO BE PRINTED WITH ABS FILAMENT! ! !
 
-YOU CAN USE STANDARD VORON SETTINGS FOR SLICING AND PRINTING THIS PARTS 
+YOU CAN USE THIS SETTINGS FOR SLICING AND PRINTING THIS PARTS 
+
+Layer height: 0.2mm
+Extrusion width: 0.4mm, forced
+Infill pecentage: 50%
+Infill type:  gyroid, honeycomb, triangle, or cubic
+Wall count: 5
+Solid top/bottom layers: 5
+
+NO WARPING!
