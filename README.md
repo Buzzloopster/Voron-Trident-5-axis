@@ -3,6 +3,7 @@ This is an 5 axis modification of Voron Trident 250mm
 
 https://youtube.com/@loopster77?si=zdEiBNTgb2wkNzhc
 
+The Part List is now complete!
 
 I am working on full manual, please be patient work in a progress. 
 
