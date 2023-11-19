@@ -5,7 +5,7 @@ https://youtube.com/@loopster77?si=zdEiBNTgb2wkNzhc
 
 The Part List is now complete!
 
-I am working on full manual, please be patient work in a progress. 
+I am working on full a manual, please be patient work in a progress. 
 
 I still need to upload the, wiring diagram and calibration instructions. 
 
