@@ -7,7 +7,7 @@ The Part List is now complete!
 
 I am working on full manual, please be patient work in a progress. 
 
-I still need to upload the Z- axis hotend with extruder, wiring diagram and calibration instructions. 
+I still need to upload the Z- axis hotend with extruder build manual, wiring diagram and calibration instructions. 
 
 
 ![Trident 5 axis](https://github.com/Buzzloopster/Voron-Trident-5-axis/assets/147974295/7b06920c-3dbe-4b38-a69f-46465ea3b29e)
