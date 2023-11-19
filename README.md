@@ -5,9 +5,13 @@ https://youtube.com/@loopster77?si=zdEiBNTgb2wkNzhc
 
 The Part List is now complete!
 
-I am working on full a manual, please be patient work in a progress. 
+Assembly manuals now complete!
 
-I still need to upload the, wiring diagram and calibration instructions. 
+STL files complete!
+
+I'm working on the full guide, please be patient, it's a work in progress.
+
+I still need to upload, wiring diagram and calibration instructions.
 
 
 ![Trident 5 axis](https://github.com/Buzzloopster/Voron-Trident-5-axis/assets/147974295/7b06920c-3dbe-4b38-a69f-46465ea3b29e)
