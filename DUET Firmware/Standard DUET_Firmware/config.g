@@ -83,7 +83,7 @@ M915 C S3 F0 H500 R1		                ; Set C axis Sensitivity
 
 
 ; Fans
-M950 F0 C"out5" Q500                ; create fan 0 on pin out7 and set its frequency
+M950 F0 C"out5" Q500                ; create fan 0 on pin out5 and set its frequency
 M106 P0 S0 H-1                      ; set fan 0 value. Thermostatic control is
 M950 F1 C"out7" Q500				; Creates HOTEND Fan
 M106 P1 T45 S255 H1                 ; HOTEND Fan Settings
@@ -91,8 +91,11 @@ M950 F2 C"out8" Q500				; Creates CASE Fan 2
 M106 P2  S55 H-1                 	; HOTEND Fan Settings
 M950 F3 C"out9" Q500                ; create case fan 3 on pin out9 and set its frequency
 M106 P3  S0 H-1                     ; set fan 3 value. Thermostatic control is turned ON
+M950 F4 C"out6" Q500                ; create fan 4 on pin out6
+M106 P4 S0 H-1                      ; set fan 4 value. 
+
 
 ; Tools
-M563 P0 D0 H1 F0                                      ; define tool 0
+M563 P0 D0 H1 F0:4                                      ; define tool 0
 G10 P0 X0 Y0 Z0                                       ; set tool 0 axis offsets
 G10 P0 R0 S0                                          ; set initial tool 0 active and standby temperatures to 0C
