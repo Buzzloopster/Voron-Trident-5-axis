@@ -27,5 +27,12 @@ https://youtube.com/@loopster77?si=zdEiBNTgb2wkNzhc
 
 
 
-![Trident 5 axis](https://github.com/Buzzloopster/Voron-Trident-5-axis/assets/147974295/7b06920c-3dbe-4b38-a69f-46465ea3b29e)
-![Trident_ 5_axis_foto](https://github.com/Buzzloopster/Voron-Trident-5-axis/assets/147974295/5af46770-2586-4164-8cbe-ade2170bd56f)
+![Trident 5 axis](https://github.com/Buzzloopster/Voron-Trident-5-axis/blob/main/Trident%205%20axis.png)
+
+
+
+![Trident_ 5_axis_foto_1](https://github.com/Buzzloopster/Voron-Trident-5-axis/blob/main/Trident_5_axis_foto.jpg)
+
+
+
+![Trident_ 5_axis_foto_2](https://github.com/Buzzloopster/Voron-Trident-5-axis/blob/main/Trident_5_axis_foto_2.jpg)
